@@ -3,7 +3,7 @@
     "path": "~/witchcraft/RepData_PeerAssessment1/PA1.Rmd",
     "project_path": "PA1.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2289319973",
     "contents": "",
     "dirty": false,
     "created": 1672969912054.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "120,54",
-        "scrollLine": "87"
+        "cursorPosition": "165,58",
+        "scrollLine": "131"
     },
     "folds": "",
-    "lastKnownWriteTime": 1673120614,
+    "lastKnownWriteTime": 1673827274,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1673120614579,
+    "last_content_update": 1673827274916,
     "read_only": false,
     "read_only_alternatives": []
 }
